@@ -1,0 +1,634 @@
+body{
+	font-size: 18px;
+	font-family: arial;
+	line-height: 1.5;
+	background:none;
+	color: #727676;
+	margin: 0;
+
+}
+
+
+.container{
+	width: 85%;
+	margin: auto;
+}
+
+
+.button1{
+	height: 38px;
+	background: #696969;
+	border-radius: 5px;
+	display: inline-block;
+	padding-left: 20px;
+	padding-right: 20px;
+	color: #ffffff;
+	font-weight: bold;
+	float: center;
+}
+
+.button2{
+
+	border: 2px solid #ffffff;
+    background-color: transparent;
+    color: #fff;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+.button3{
+
+	border: 2px solid #ffd3d7;
+    background-color: white;
+    color: #727676;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+   
+.minisection{
+	border-bottom: #ffd3d7 3px solid;
+	padding-bottom: 20px;
+}
+
+  
+
+.gallery{
+	margin: 5px;
+	border: 1px solid #ccc;
+	float: left;
+	width: 330px;
+}
+
+.gallery img{
+	width: 100%;
+	height: auto;
+}
+
+.desc{
+	padding: 15px;
+	text-align: center;
+
+}
+
+
+header{
+	background-color: #ffffff;
+	height: auto;
+	color: #727676;
+	min-height: 45px;
+	border-bottom: #ffd3d7 3px solid;
+	width: 100%;
+	margin-top: -10px;
+	position: relative;
+
+}
+
+header a{
+	color: #727676;
+	text-decoration: none;
+	font-size: 15px;
+	text-transform: uppercase;
+
+	
+
+}
+
+header ul{
+	margin: 0;
+	padding: 0;
+}
+
+header li{
+	float: left;
+	display: inline;
+	padding: 0 20px 0 0;
+}
+
+header #name {
+	float: left;
+	font-size: 18px;
+	padding-top: 6px;
+
+	}
+
+header #name h1{
+	margin: 0px;
+	padding-left: 30px;
+
+}
+
+header nav {
+	float: right;
+	margin-bottom: 30px;
+	margin-top: 10px; 
+}	
+
+#home {
+	padding-bottom: 0px;
+	margin: 5px;
+}
+
+#home p{
+	font-size: 55px;
+	color: #727676;
+}
+
+
+#showcase{
+	min-height: 300px;
+	padding-top:  50px;
+	padding-bottom: 30px;
+	text-align: center;
+	color: #6d6a6e;
+	margin-top: -200px;
+	
+
+
+}
+
+#showcase h1{
+	margin-top: -400px;
+	font-size: 55px;
+	margin-bottom: 10px;
+}
+
+
+
+#about {
+	padding: 5px;
+	color: #727676;
+	padding-top: 10px;
+	min-height: 20px;
+	margin-top: -180px;
+	text-align: center;
+	padding-bottom: 20px;
+
+
+
+}
+
+
+#about h2{
+	text-align: center;
+	font-weight: bold;
+	padding-right: 50px;
+	font-size: 30px;
+
+}
+
+#about p{
+
+	text-align: center;
+	margin-top: -150px;
+	vertical-align: 7px;
+
+}
+
+#link-container {
+    text-align: center;
+    margin-right: 480px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color:#727676;
+    padding-bottom: 30px;
+
+}
+
+#about button{
+	float: center;
+	margin-top: 10px;
+	text-align: center;
+	margin-left: 190px;
+
+}
+
+
+#interestspage{
+	margin-bottom: -400px;
+
+
+}
+#interests h2{
+	float: center;
+	text-align: center;
+	margin-top: -50px;
+	padding-bottom: 20px;
+	padding-right: 50px;
+	padding-left: 90px;
+	font-size: 30px;
+}
+#interests h3 {
+	margin-top: 30px;
+	text-align: center;
+	
+}
+#interests .box {
+	float: left;
+	width: 20%;
+	padding-left: 70px;
+	column-span: 20px;
+	text-align: center;
+	padding-bottom: 100px;
+	margin-left: 35px;
+
+}
+
+
+
+#projects {
+	margin-top: 10px;
+	padding-left: 100px;
+	margin-bottom: 90px;
+	margin-right: 100px;
+}
+
+
+
+#projects h2{
+	text-align: center;
+	color: #727676;
+	padding-left: 10px;
+	padding-top: 10px;
+	font-size: 30px;
+
+
+}
+#projects h3{
+	text-align: center;
+	color: #727676;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+}
+
+#projects p{
+	padding-right: 20px;
+	color: #727676;
+	text-align: center;
+	padding-bottom: 20px;
+	
+}
+
+
+#projectpage{
+	
+	margin-bottom: -505px;
+	
+}
+
+#interestpage{
+	margin-bottom: -505px;
+}
+
+#interestspage h2{
+float: center;
+text-align: center;
+}
+
+#projectpage h2{
+	text-align: center;
+	padding-left:30px;
+	font-weight: bold;
+	font-size: 28px;
+
+}
+
+
+#projectpage h3{
+	text-align: left;
+	padding-left:20px;
+	font-weight: bold;
+	c
+	
+	
+}
+
+
+#projectpage p{
+	text-align: left;
+	padding-left:20px;
+	font-size: 18px;
+
+
+}
+
+
+.column {
+	text-align: center;
+	margin-left: 40px;
+	margin-bottom: 20px;
+    float: left;
+    width: 30%;
+    padding: 0px;
+    height: 450px; /* Should be removed. Only for demonstration */
+}
+
+.column1 {
+	text-align: center;
+	margin-left: 5px;
+    float: left;
+    width: 30%;
+    padding: 0px;
+    border-left:#ffd3d7 3px dotted;
+    height: 450px; /* Should be removed. Only for demonstration */
+}
+
+.column2{
+	text-align: center;
+	margin-left: 5px;
+    float: left;
+    width: 30%;
+    padding: 0px;
+    border-left:#ffd3d7 3px dotted;
+    height: 450px; /* Should be removed. Only for demonstration */
+}
+
+.column3 {
+	text-align: center;
+	margin-left: 5px;
+	margin-bottom: 20px;
+    float: left;
+    width: 30%;
+    padding: 0px;
+    height: 350px; /* Should be removed. Only for demonstration */
+    border: #ffd3d7 3px dotted;
+}
+
+.column4 {
+	text-align: center;
+	margin-left: 5px;
+    float: left;
+    width: 30%;
+    padding: 0px;
+    border: #ffd3d7 3px dotted;
+    height: 350px; /* Should be removed. Only for demonstration */
+}
+
+.column5{
+	text-align: center;
+	margin-left: 5px;
+    float: left;
+    width: 30%;
+    padding: 0px;
+    border: #ffd3d7 3px dotted;
+    height: 350px; /* Should be removed. Only for demonstration */
+}
+
+
+/* Clear floats after the columns */
+.row:after {
+    content: "  ";
+    display: table;
+    clear: both;
+    float: center;
+    text-align: center;
+}
+
+#projectpage img{
+	margin-left: 40px;
+}
+
+#about img{
+	padding-left: 70px;
+}
+
+
+#coop {
+	padding-bottom: 20px;
+	margin-left: 105px;
+	text-align: center;
+	float: center;
+	padding-right: 50px;
+}
+
+#coop h2{
+	padding-right: 55px;
+	font-size: 30px;
+}
+
+#cooppage h2{
+	float: center;
+	text-align: center;
+	font-size: 28px;
+}
+
+#cooppage {
+	margin-bottom: -250px;
+
+}
+
+
+
+#contactme {
+	margin-bottom: -100px;
+	padding-left: 50px;
+}
+
+#contactme h2{
+	text-transform: uppercase;
+	float: center;
+	text-align:center;
+	font-size: 35px;
+	padding-right: 50px;
+}
+
+#contactme p{
+	float: center;
+	text-align:center;
+	padding-bottom: 40px;
+	padding-right: 50px;
+	font-size: 20px;
+}
+.contactcolumn {
+	text-align: center;
+	margin-left: 20px
+	margin-bottom: 50px;
+    float: left;
+    border: 3px solid #727676;
+    padding-bottom: 50px; 
+    width: 45%;
+    
+
+    height: 200px; /* Should be removed. Only for demonstration */
+}
+
+.contactcolumn1 {
+	text-align: center;
+	margin-left: 5px;
+    float: left;
+    width: 45%;
+    padding: 0px;
+    border: 3px solid #727676;
+    padding-bottom: 50px;
+    height: 200px; /* Should be removed. Only for demonstration */
+}
+
+.contactrow:after {
+    content: "  ";
+    display: table;
+    clear: both;
+    float: center;
+    text-align: center;
+    position: center;
+}
+
+
+
+footer {
+	padding: none;
+	color: #ffffff;
+	background-color: #c39a94;
+	text-align: center;
+	margin-top: 500px;
+	float: center;
+}
+
+
+
+
+
+.mySlides {display: none}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: #ffd3d7;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #727676;
+  font-size: 15px;
+  padding-top: 20px;
+  position: absolute;
+  font-weight: bold;
+  text-transform: uppercase;
+  bottom: -18px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #ffd3d7;
+  font-size: 22px;
+  padding: 8px 12px;
+  font-weight: bold;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+
+
+
+
+.typewriter h1 {
+  color: #ffffff;
+  font-family: arial;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em;
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .11em; /* Adjust as needed */
+  animation: 
+
+    typing 5s steps(35, end),
+    blink-caret .25s step-end infinite;
+    padding-left: 110px;
+    padding-top: 200px;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: #ffffff; }
+  50% { border-color: #ffffff }
+}
+
+#footer {
+    margin:0 auto;
+    width:834px;
+    height:auto;
+    overflow:hidden;
+    position: fixed;
+    bottom: 0px;
+}
+
